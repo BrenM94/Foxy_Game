@@ -1,2 +1,2 @@
 # foxy_game
-Game made with html, css and javascript! :cat:
+Game built with html, css and javascript! :cat:
